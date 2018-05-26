@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="灯开关">灯开关</string>
+    <string name="鱼缸光照开关">鱼缸光照开关</string>
+    <string name="鱼缸加热开关">鱼缸加热开关</string>
+    <string name="鱼缸供氧开关">鱼缸供氧开关</string>
+    <string name="鱼缸换水开关">鱼缸换水开关</string>
+    <string name="鱼缸投食开关">鱼缸投食开关</string>
+    <string name="鱼缸水温">鱼缸水温</string>
+    <string name="光照强度">光照强度</string>
+</resources>
